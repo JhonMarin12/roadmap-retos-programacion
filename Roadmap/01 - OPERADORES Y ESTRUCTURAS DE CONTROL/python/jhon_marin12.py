@@ -61,6 +61,8 @@ for i in range(101):
     else:
         print("el numero {} es impar".format(i))
 
+
+# Ejercicio Extra
 for i in range(10,56): #Debemos sumar 1 al numero para tomarlo
     if i%2 == 0 and i != 16 and i%3 != 0:
         print(i)
